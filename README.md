@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m a Optical Engineering Ph.D. student in HUST, working with [Prof. Shaoqun Zeng](http://faculty.hust.edu.cn/zengshaoqun/zh_CN/index.htm). My real name is Fengchen He.
 - 🔭 I’m currently working on how to simulate Dual-Pixel PSF/images.
 - 🤔 I am seeking assistance from any Dual-Pixel sensor engineer (⚡plz contact me, crying⚡).
-- 📫 How to reach me:  linyark@hust.edu.cn
+- 📫 How to reach me: linyark@hust.edu.cn (or he_fengchen@qq.com).
 ### Education & Employment:
 - 2023 - now, PhD in Optical Engineering, HUST.
 - 2022 - 2023, Auto-Focus Engineer, Xiaomi.
